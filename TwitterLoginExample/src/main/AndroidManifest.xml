@@ -18,6 +18,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.daiweilu.twitterloginexample.LoginToTwitter"
+            android:label="@string/title_activity_login_to_twitter" >
+        </activity>
     </application>
 
 </manifest>

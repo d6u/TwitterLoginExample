@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="TWITTER_CONSUMER_KEY">t438xJ7yjwTWn7MeW2tH9Q</string>
+    <string name="TWITTER_CONSUMER_SECRET">AVtSkceC0eB4eiTYRXJzemqJTRNhF2JWGV9Ax5K0Pw0</string>
+    <string name="TWITTER_CALLBACK_URL">oauth://twitter_callback</string>
+    
+</resources>
